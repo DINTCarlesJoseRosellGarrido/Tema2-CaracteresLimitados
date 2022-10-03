@@ -37,7 +37,6 @@ namespace Tema2_CaracteresLimitados
             {
                 cajaTexto.IsEnabled = false;
             }
-            
         }
     }
 }
